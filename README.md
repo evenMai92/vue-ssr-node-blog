@@ -10,3 +10,5 @@ vue服务端渲染的blog项目(用于学习vue-ssr和node)
 ## 参考
 1. https://github.com/justJokee/vue-ssr-blog
 2. https://github.com/lentoo/vue-cli-ssr-example
+
+## [开发教程](https://github.com/evenMai92/vue-ssr-node-blog/tree/master/book)
