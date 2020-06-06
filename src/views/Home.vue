@@ -13,6 +13,9 @@ export default {
   name: 'Home',
   components: {
     HelloWorld
-  }
+  },
+  data() {
+    return{}
+  },
 }
 </script>
